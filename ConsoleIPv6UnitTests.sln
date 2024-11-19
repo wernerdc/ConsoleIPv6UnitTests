@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIPv6UnitTests", "ConsoleIPv6UnitTests\ConsoleIPv6UnitTests.csproj", "{52DF4B9E-FA0C-4460-A247-048CDB53A0DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIPv6Test", "ConsoleIPv6Test\ConsoleIPv6Test.csproj", "{08EB7AB6-6659-45CC-82D6-5B35F22EBADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52DF4B9E-FA0C-4460-A247-048CDB53A0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DF4B9E-FA0C-4460-A247-048CDB53A0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DF4B9E-FA0C-4460-A247-048CDB53A0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DF4B9E-FA0C-4460-A247-048CDB53A0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08EB7AB6-6659-45CC-82D6-5B35F22EBADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EB7AB6-6659-45CC-82D6-5B35F22EBADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EB7AB6-6659-45CC-82D6-5B35F22EBADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EB7AB6-6659-45CC-82D6-5B35F22EBADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9B1EABC-0884-486B-B30A-F233DF7614B6}
+	EndGlobalSection
+EndGlobal
